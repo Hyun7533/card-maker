@@ -1,4 +1,4 @@
-# react를 활용한 명함만들기 프로젝트
+# React Project
 
 ### Social Login
 <img width="2048" alt="스크린샷 2021-06-18 오후 12 37 59" src="https://user-images.githubusercontent.com/65489029/122502869-68324800-d032-11eb-9595-38c09ae468ff.png">
